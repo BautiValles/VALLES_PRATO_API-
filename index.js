@@ -48,7 +48,7 @@
 
  // Imprimimos los arrays para ver si se estan agregando los ...
 
-elementos
+//elementos
  console.log(usuarios)
  console.log(mails)
 
